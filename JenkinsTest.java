@@ -7,6 +7,7 @@ public class JenkinsTest {
         List<String> list = Arrays.asList("Apple", "Banana", "Cherry");
         System.out.println(list);
         System.out.println("hey again");
+        System.out.println("lets go");
 
     }
 }
